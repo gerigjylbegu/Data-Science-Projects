@@ -1,0 +1,14 @@
+backports.tarfile
+importlib-metadata
+inflect
+ipykernel
+jaraco.collections
+jinja2
+kaleido
+nbformat
+pip-chill
+pip-tools
+plotly
+seaborn
+statsmodels
+tomli

@@ -1,0 +1,10 @@
+STRUCTURE,STRUCTURE_ID,STRUCTURE_NAME,ACTION,LOCATION,Country,INDICATOR,Indicator,SUBJECT,Subject,MEASURE,Measure,FREQUENCY,Frequency,TIME_PERIOD,Time,OBS_VALUE,Observation Value,OBS_STATUS,Observation Status,UNIT_MEASURE,Unit of Measures,UNIT_MULT,Multiplier,BASE_PER,Base reference period
+DATAFLOW,OECD:DF_DP_LIVE(1.0),OECD Data Archive,I,OECD,OECD - Total,EMPAGE,Employment rate by age group,25_54,25-54 year-olds,PC_AGE,% in same age group,A,Annual,2017,,77.75073,,E,,,,,,,
+DATAFLOW,OECD:DF_DP_LIVE(1.0),OECD Data Archive,I,OECD,OECD - Total,EMPAGE,Employment rate by age group,15_24,15-24 year-olds,PC_AGE,% in same age group,A,Annual,2019,,42.49072,,E,,,,,,,
+DATAFLOW,OECD:DF_DP_LIVE(1.0),OECD Data Archive,I,OECD,OECD - Total,EMPAGE,Employment rate by age group,15_24,15-24 year-olds,PC_AGE,% in same age group,A,Annual,2018,,42.16507,,E,,,,,,,
+DATAFLOW,OECD:DF_DP_LIVE(1.0),OECD Data Archive,I,OECD,OECD - Total,EMPAGE,Employment rate by age group,15_24,15-24 year-olds,PC_AGE,% in same age group,A,Annual,2017,,41.64917,,E,,,,,,,
+DATAFLOW,OECD:DF_DP_LIVE(1.0),OECD Data Archive,I,OECD,OECD - Total,EMPAGE,Employment rate by age group,55_64,55-64 year-olds,PC_AGE,% in same age group,A,Annual,2018,,61.35205,,E,,,,,,,
+DATAFLOW,OECD:DF_DP_LIVE(1.0),OECD Data Archive,I,OECD,OECD - Total,EMPAGE,Employment rate by age group,25_54,25-54 year-olds,PC_AGE,% in same age group,A,Annual,2018,,78.39207,,E,,,,,,,
+DATAFLOW,OECD:DF_DP_LIVE(1.0),OECD Data Archive,I,OECD,OECD - Total,EMPAGE,Employment rate by age group,55_64,55-64 year-olds,PC_AGE,% in same age group,A,Annual,2019,,61.97425,,E,,,,,,,
+DATAFLOW,OECD:DF_DP_LIVE(1.0),OECD Data Archive,I,OECD,OECD - Total,EMPAGE,Employment rate by age group,25_54,25-54 year-olds,PC_AGE,% in same age group,A,Annual,2019,,78.75082,,E,,,,,,,
+DATAFLOW,OECD:DF_DP_LIVE(1.0),OECD Data Archive,I,OECD,OECD - Total,EMPAGE,Employment rate by age group,55_64,55-64 year-olds,PC_AGE,% in same age group,A,Annual,2017,,60.37699,,E,,,,,,,
